@@ -6,7 +6,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #696969;
+    background-color: #000000;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -29,7 +29,7 @@ body {
 }
 
 .atividade fisica{
-    background-image: linear-gradient(#696969,#696969);
+    background-image: linear-gradient(#000000,#000000);
     color:white;
     display: flex;
     justify-content: center;
